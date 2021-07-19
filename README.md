@@ -5,3 +5,5 @@ Solving DSA questions daily. 🍊 Starting this for the 3rd time.
 - [Reverse an Array : RECURSIVE & ITERATIVE](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
 
 - [Return Min Max from an Array : Class, TOURNAMENT METHOD](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
+
+- [Kth smallest element : QUICK SELECT](https://www.cdn.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/)
