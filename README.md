@@ -19,3 +19,5 @@ Solving DSA questions daily. 🍊 Starting this for the 3rd time.
 - [Contiguous subarray with maximum sum : KADANE'S algo, Sumeet Malik](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 
 - [Minimize the Heights II : V. Imp](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1#)
+
+- [Minimum Number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
