@@ -23,3 +23,5 @@ Solving DSA questions daily. 🍊 Starting this for the 3rd time.
 - [* Minimum Number of jumps : LEFT TO DO, Vivekanand Khyade](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
 
 - [Find the Duplicate Number : TORTOISE method, CIRCULAR LINKED LIST, Striver](https://leetcode.com/problems/find-the-duplicate-number/)
+
+- [*Merge Without Extra Space : GAP algo left, Striver](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)
