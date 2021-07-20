@@ -15,3 +15,5 @@ Solving DSA questions daily. 🍊 Starting this for the 3rd time.
 - [Union & Intersection of two arrays : Intersection is left](https://www.geeksforgeeks.org/find-union-and-intersection-of-two-unsorted-arrays/)
 
 - [Cyclically Rotate an Array by One : TWO POINTER APPROACH](https://www.geeksforgeeks.org/c-program-cyclically-rotate-array-one/)
+
+- [Contiguous subarray with maximum sum : KADANE'S algo, Sumeet Malik](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
