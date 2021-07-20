@@ -20,4 +20,6 @@ Solving DSA questions daily. 🍊 Starting this for the 3rd time.
 
 - [Minimize the Heights II : V. Imp](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1#)
 
-- [* Minimum Number of jumps : LEFT TO DO](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
+- [* Minimum Number of jumps : LEFT TO DO, Vivekanand Khyade](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
+
+- [Find the Duplicate Number : TORTOISE method, CIRCULAR LINKED LIST, Striver](https://leetcode.com/problems/find-the-duplicate-number/)
