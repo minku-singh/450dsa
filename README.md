@@ -12,7 +12,7 @@ Solving DSA questions daily. 🍊 Starting this for the 3rd time.
 
 - [Move all negative numbers to beginning and positive to end with constant extra space : TWO POINTER APPROACH](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
 
-- [Union & Intersection of two arrays : Intersection is left](https://www.geeksforgeeks.org/find-union-and-intersection-of-two-unsorted-arrays/)
+- [* Union & Intersection of two arrays : Intersection is left](https://www.geeksforgeeks.org/find-union-and-intersection-of-two-unsorted-arrays/)
 
 - [Cyclically Rotate an Array by One : TWO POINTER APPROACH](https://www.geeksforgeeks.org/c-program-cyclically-rotate-array-one/)
 
@@ -20,4 +20,4 @@ Solving DSA questions daily. 🍊 Starting this for the 3rd time.
 
 - [Minimize the Heights II : V. Imp](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1#)
 
-- [Minimum Number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
+- [* Minimum Number of jumps : LEFT TO DO](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
