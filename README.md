@@ -13,3 +13,5 @@ Solving DSA questions daily. 🍊 Starting this for the 3rd time.
 - [Move all negative numbers to beginning and positive to end with constant extra space : TWO POINTER APPROACH](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
 
 - [Union & Intersection of two arrays : Intersection is left](https://www.geeksforgeeks.org/find-union-and-intersection-of-two-unsorted-arrays/)
+
+- [Cyclically Rotate an Array by One : TWO POINTER APPROACH](https://www.geeksforgeeks.org/c-program-cyclically-rotate-array-one/)
