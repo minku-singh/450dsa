@@ -16,7 +16,7 @@ Solving DSA questions daily. 🍊 Starting this for the 3rd time.
 
 - [Cyclically Rotate an Array by One : TWO POINTER APPROACH](https://www.geeksforgeeks.org/c-program-cyclically-rotate-array-one/)
 
-- [Contiguous subarray with maximum sum : KADANE'S algo, Sumeet Malik](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
+- [Contiguous subarray with maximum sum : KADANE'S algo, Sumeet Malik, Pepcoding](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 
 - [Minimize the Heights II : V. Imp](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1#)
 
@@ -27,3 +27,5 @@ Solving DSA questions daily. 🍊 Starting this for the 3rd time.
 - [* Merge Without Extra Space : GAP algo left, Striver](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)
 
 - [* Count Inversions](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#)
+
+- [Best Time to Buy and Sell Stock : Sumeet Malik, Pepcoding](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
