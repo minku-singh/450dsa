@@ -29,3 +29,5 @@ Solving DSA questions daily. 🍊 Starting this for the 3rd time.
 - [* Count Inversions](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#)
 
 - [Best Time to Buy and Sell Stock : Sumeet Malik, Pepcoding](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
+- [* Count pairs with given sum : LEFT TO DO, Hashmap](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1#)
