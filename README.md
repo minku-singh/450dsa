@@ -35,3 +35,5 @@ Solving DSA questions daily. 🍊 Starting this for the 3rd time.
 - [* Longest consecutive subsequence : LEFT TO DO, Hashmap](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1#)
 
 - [* more than n/k times](https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/)
+
+- [* Array subset of another array : other methods left](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1#)
