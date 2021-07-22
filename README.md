@@ -31,3 +31,5 @@ Solving DSA questions daily. 🍊 Starting this for the 3rd time.
 - [Best Time to Buy and Sell Stock : Sumeet Malik, Pepcoding](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 - [* Count pairs with given sum : LEFT TO DO, Hashmap](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1#)
+
+- [* Longest consecutive subsequence : LEFT TO DO, Hashmap](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1#)
