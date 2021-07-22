@@ -33,3 +33,5 @@ Solving DSA questions daily. 🍊 Starting this for the 3rd time.
 - [* Count pairs with given sum : LEFT TO DO, Hashmap](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1#)
 
 - [* Longest consecutive subsequence : LEFT TO DO, Hashmap](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1#)
+
+- [more than n/k times](https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/)
