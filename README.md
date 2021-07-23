@@ -39,3 +39,5 @@ Solving DSA questions daily. 🍊 Starting this for the 3rd time.
 - [* Array subset of another array : other methods left](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1#)
 
 - [Triplet Sum in an Array : FIXED POINTER, TWO POINTER](https://practice.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1#)
+
+- [Chocolate Distribution : Manisha, pepcoding](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
